@@ -1,0 +1,28 @@
+.first-portion{
+width: 1440px;
+height: 576px;
+flex-shrink: 0;
+background: #F0FFF0;
+}
+
+.Login{
+    border-radius: 33px;
+}
+#question{
+    color: #FD511A;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+  
+font-family: 'Poppins', sans-serif;
+font-weight: 900;
+}
+.icon{
+    width: 270px;
+height: 270px;
+border-radius: 10px;
+background: #F8FFFB;
+}
+
